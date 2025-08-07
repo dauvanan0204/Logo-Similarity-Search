@@ -1,0 +1,9 @@
+version: "2"
+authtoken: 2ztbpioFSEzXcJI655BAOc7cKCQ_7AAtPQuLVdmm9t7DbSFmN
+tunnels:
+  streamlit:
+    proto: http
+    addr: 8501
+  minio:
+    proto: http
+    addr: 9000
